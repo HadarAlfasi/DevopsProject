@@ -3,7 +3,7 @@ public class HadarAlfasi {
         {
             for (int i=1;i<=10; i++)
             {
-                System.out.println("Hadar Alfasi"+i);
+                System.out.println("Hadar"+i);
             }
         }
     }
